@@ -1,0 +1,13 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+@import url("estilos/cabecalho.css");
+@import url("estilos/corpo.css");
+@import url("estilos/rodape.css");
+border-radius: 0 0 20px 20px;
+border-radius: 0 0 20px 20px;
+
+
