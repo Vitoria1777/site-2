@@ -9,5 +9,17 @@ body {
 @import url("estilos/rodape.css");
 border-radius: 0 0 20px 20px;
 border-radius: 0 0 20px 20px;
-
+.classe:hover {
+}
+.botao {
+    background-color: var(--azul);
+    color: white;
+  }
+  
+  .botao:hover {
+    background-color: var(--azul-claro);
+    color: var(--azul);
+  }
+  
+  
 
